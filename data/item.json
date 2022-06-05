@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+            "name":"1",
+            "dateCreated":"",
+            "dateUpdated":"",
+            "price":"",
+            "quantity":""
+    },
+    {
+        "id":2,
+            "name":"2",
+            "dateCreated":"",
+            "dateUpdated":"",
+            "price":"",
+            "quantity":""
+    },
+    {
+        "id":3,
+            "name":"3",
+            "dateCreated":"",
+            "dateUpdated":"",
+            "price":"",
+            "quantity":""
+    },
+    {
+        "id":4,
+            "name":"4",
+            "dateCreated":"",
+            "dateUpdated":"",
+            "price":"",
+            "quantity":""
+    }
+]
